@@ -1,9 +1,9 @@
 # Basic site settings (edit these first)
-title: "Student Portfolio" # Site title shown in the browser and header
+title: "Harvey Kane" # Site title shown in the browser and header
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 description: "A simple portfolio starter for games students." # Short site summary
-name: "Therese Charles"
+name: "Harvey Kane"
 url: "https://Kokoronashi-Ko.github.io" # Your GitHub Pages domain
 baseurl: "" # Repo name if site is in a project repo, blank for user/org site
 locale: "en-GB" # Language/region
@@ -20,11 +20,11 @@ favicon_version: 1 # Increment to force browsers to refresh the favicon
 
 # Site Author
 author:
-  name: "Student Name" # Name of the student
+  name: "Harvey Kane" # Name of the student
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Add short bio here" # Bio of the student
-  location: "Add location here" # Location of the student
-  email: # Email of the student
+  bio: "Student of Ulster University, currently in the first undergraduate year of Bsc Games Design & Development" # Bio of the student
+  location: "Ulster Univeristy, Magee Campus" # Location of the student
+  email: "kane-h3@ulster.ac.uk" # Email of the student
 
   # Author links
   links:
